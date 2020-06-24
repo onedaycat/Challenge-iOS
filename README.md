@@ -2,8 +2,8 @@
 
 - Tab Memory กับ Tab Persistent ไม่ใช้ข้อมูลร่วมกัน
 - แสดงรายการ list note
-- เมื่อกดที่ note ไปหน้า detail
-- สามารถ แก้ไข เพิ่ม ลบ ได้ 
+- เมื่อกดที่ note ไปหน้า note detail
+- สามารถ แก้ไข เพิ่ม ลบ note ได้ 
 - Cell ขยายตาม Height ของ Label
 - Persistent Tab เปิด ปิด App ใหม่ข้อมูลเดิมต้องยังอยู่
 
