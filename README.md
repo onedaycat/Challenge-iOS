@@ -10,7 +10,7 @@
 
 ### Required
  1. Architecture Pattern:  MVVM
- 2. UnitTests
+ 2. UnitTests (Covered > 70%)
  3. Design Patterns: Adapter, Singleton
  4. Reactive 
 
