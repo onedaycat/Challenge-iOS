@@ -5,6 +5,7 @@
 - เมื่อกดที่ note ไปหน้า note detail
 - สามารถ แก้ไข เพิ่ม ลบ note ได้ 
 - Cell ขยายตาม Height ของ Label
+- สร้างได้สูงสุด 20 note
 - Persistent Tab เปิด ปิด App ใหม่ข้อมูลเดิมต้องยังอยู่
 
 ### Required
