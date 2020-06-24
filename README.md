@@ -1,4 +1,4 @@
-สร้าง Application บันทึก Note โดยแบ่งออกเป็น 2 Tab 1.Memory cache 2.Persistent Cache สามารถใช้ lib อะไรก็ได้ เมื่อ click ที่ list ไปหน้า detail ที่สามารถ แก้ไข ลบ ได้
+สร้าง Application บันทึก Note โดยแบ่งออกเป็น 2 Tab 1.Memory cache 2.Persistent Cache สามารถใช้ lib อะไรก็ได้
 
 - Tab Memory กับ Tab Persistent ไม่ใช้ข้อมูลร่วมกัน
 - แสดงรายการ list note
