@@ -13,4 +13,4 @@
 
 ### Wireframe
 
-![](https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/company/Cd50842e9bd7799d84556f272abf97d3d/projects/Mdfb71e82353147d5f6866d68c3ab50701592989345561/pages/eb0039da6a434b82838aabe0ee519dc3/image/eb0039da6a434b82838aabe0ee519dc3.png)
+![](https://github.com/onedaycat/Challenge-iOS/blob/master/Quiz.png)
