@@ -12,8 +12,10 @@
  1. Architecture Pattern:  MVVM
  2. UnitTests (Covered > 70%)
  3. Design Patterns: Adapter, Singleton
- 4. Reactive 
-
+ 
+### Optional
+ 1. Reactive
+ 
 ### Wireframe
 
 ![](https://github.com/onedaycat/Challenge-iOS/blob/master/Quiz.png)
